@@ -1,9 +1,14 @@
-# api documentation for  [uniq (v1.0.1)](https://github.com/mikolalysenko/uniq)  [![npm package](https://img.shields.io/npm/v/npmdoc-uniq.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-uniq) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-uniq.svg)](https://travis-ci.org/npmdoc/node-npmdoc-uniq)
+# npmdoc-uniq
+
+#### api documentation for  [uniq (v1.0.1)](https://github.com/mikolalysenko/uniq)  [![npm package](https://img.shields.io/npm/v/npmdoc-uniq.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-uniq) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-uniq.svg)](https://travis-ci.org/npmdoc/node-npmdoc-uniq)
+
 #### Removes duplicates from a sorted array in place
 
-[![NPM](https://nodei.co/npm/uniq.png?downloads=true)](https://www.npmjs.com/package/uniq)
+[![NPM](https://nodei.co/npm/uniq.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/uniq)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-uniq/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-uniq_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-uniq/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-uniq/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-uniq/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-uniq/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-uniq/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-uniq/build/screenCapture.npmPackageListing.svg)
 
@@ -52,13 +57,11 @@
     "main": "uniq.js",
     "maintainers": [
         {
-            "name": "mikolalysenko",
-            "email": "mikolalysenko@gmail.com"
+            "name": "mikolalysenko"
         }
     ],
     "name": "uniq",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/mikolalysenko/uniq.git"
@@ -69,16 +72,6 @@
     "version": "1.0.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module uniq](#apidoc.module.uniq)
-
-
-
-# <a name="apidoc.module.uniq"></a>[module uniq](#apidoc.module.uniq)
 
 
 
